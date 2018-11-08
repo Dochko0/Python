@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae7cf980-185b-4192-9d01-5e9096509a50" name="Default Changelist" comment="" />
+    <list default="true" id="07d7c0e3-140e-4f1c-9a6b-3e2814743766" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../06_While_Loop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06_While_Loop/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,43 +11,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/06_While_Loop$04_Number_Sequence.coverage" NAME="04_Number_Sequence Coverage Results" MODIFIED="1541269396085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/06_While_Loop$06_Account_Balance.coverage" NAME="06_Account_Balance Coverage Results" MODIFIED="1541270703185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/06_While_Loop$02_Graduation.coverage" NAME="02_Graduation Coverage Results" MODIFIED="1541267933244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/06_While_Loop$05_Walking.coverage" NAME="05_Walking Coverage Results" MODIFIED="1541270077430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/06_While_Loop$07_Water_Dispencer.coverage" NAME="07_Water_Dispencer Coverage Results" MODIFIED="1541272009303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/06_While_Loop$03_Graduation_2.coverage" NAME="03_Graduation_2 Coverage Results" MODIFIED="1541268694838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/06_While_Loop$08_Sequence_2k_1.coverage" NAME="08_Sequence 2k+1 Coverage Results" MODIFIED="1541272024578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/06_While_Loop$09_Moving.coverage" NAME="09_Moving Coverage Results" MODIFIED="1541272991824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$02_Old_Books.coverage" NAME="02_Old_Books Coverage Results" MODIFIED="1541667592568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$04_Vacation.coverage" NAME="04_Vacation Coverage Results" MODIFIED="1541678484980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$05_Coins.coverage" NAME="05_Coins Coverage Results" MODIFIED="1541684179285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$01_Greatest_Common_Advisor.coverage" NAME="01_Greatest_Common_Advisor Coverage Results" MODIFIED="1541664679899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$06_Cake.coverage" NAME="06_Cake Coverage Results" MODIFIED="1541686099785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$03_Exam_Preparation.coverage" NAME="03_Exam_Preparation Coverage Results" MODIFIED="1541667600312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-586149989">
+    <session id="857765048">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="7" />
+          <entry key="pyi" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="7" />
+          <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1361" />
+          <entry key="py" value="1712" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1361" />
+          <entry key="Python" value="1712" />
         </counts>
       </usages-collector>
     </session>
@@ -53,85 +55,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_Number_In_Range_1_100.py">
+        <entry file="file://$PROJECT_DIR$/01_Greatest_Common_Advisor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" selection-end-line="7" />
+            <state relative-caret-position="24">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_Graduation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="20" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Graduation_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Number_Sequence.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="10" column="9" selection-end-line="20" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_Walking.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="9" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06_Account_Balance.py">
+        <entry file="file://$PROJECT_DIR$/02_Old_Books.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" column="18" selection-end-line="13" />
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_Water_Dispencer.py">
+        <entry file="file://$PROJECT_DIR$/03_Exam_Preparation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="26" selection-end-line="15" />
+            <state relative-caret-position="552">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08_Sequence 2k+1.py">
+        <entry file="file://$PROJECT_DIR$/04_Vacation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="552">
+              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_Coins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="22" column="41" lean-forward="true" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09_Moving.py">
+        <entry file="file://$PROJECT_DIR$/06_Cake.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="408">
+              <caret line="17" lean-forward="true" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -151,15 +123,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01_Number_In_Range_1_100.py" />
-        <option value="$PROJECT_DIR$/02_Graduation.py" />
-        <option value="$PROJECT_DIR$/03_Graduation_2.py" />
-        <option value="$PROJECT_DIR$/04_Number_Sequence.py" />
-        <option value="$PROJECT_DIR$/05_Walking.py" />
-        <option value="$PROJECT_DIR$/06_Account_Balance.py" />
-        <option value="$PROJECT_DIR$/07_Water_Dispencer.py" />
-        <option value="$PROJECT_DIR$/08_Sequence 2k+1.py" />
-        <option value="$PROJECT_DIR$/09_Moving.py" />
+        <option value="$PROJECT_DIR$/01_Greatest_Common_Advisor.py" />
+        <option value="$PROJECT_DIR$/02_Old_Books.py" />
+        <option value="$PROJECT_DIR$/03_Exam_Preparation.py" />
+        <option value="$PROJECT_DIR$/04_Vacation.py" />
+        <option value="$PROJECT_DIR$/05_Coins.py" />
+        <option value="$PROJECT_DIR$/06_Cake.py" />
       </list>
     </option>
   </component>
@@ -170,31 +139,29 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2309" />
-    <option name="y" value="53" />
-    <option name="width" value="1074" />
-    <option name="height" value="882" />
+    <option name="x" value="2111" />
+    <option name="y" value="136" />
+    <option name="width" value="1536" />
+    <option name="height" value="824" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="06_While_Loop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="06_While_Loop" type="462c0819:PsiDirectoryNode" />
+              <item name="07_While_Loop_Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="07_While_Loop_Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,9 +181,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.09_Moving">
-    <configuration name="05_Walking" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="06_While_Loop" />
+  <component name="RunManager" selected="Python.06_Cake">
+    <configuration name="02_Old_Books" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="07_While_Loop_Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -228,7 +195,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Walking.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Old_Books.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,8 +204,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_Account_Balance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="06_While_Loop" />
+    <configuration name="03_Exam_Preparation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="07_While_Loop_Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -250,7 +217,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Account_Balance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Exam_Preparation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,8 +226,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_Water_Dispencer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="06_While_Loop" />
+    <configuration name="04_Vacation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="07_While_Loop_Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -272,7 +239,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Water_Dispencer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Vacation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,8 +248,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_Sequence 2k+1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="06_While_Loop" />
+    <configuration name="05_Coins" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="07_While_Loop_Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -294,7 +261,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Sequence 2k+1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Coins.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,8 +270,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_Moving" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="06_While_Loop" />
+    <configuration name="06_Cake" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="07_While_Loop_Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -316,7 +283,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Moving.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Cake.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,19 +293,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.05_Walking" />
-      <item itemvalue="Python.06_Account_Balance" />
-      <item itemvalue="Python.07_Water_Dispencer" />
-      <item itemvalue="Python.08_Sequence 2k+1" />
-      <item itemvalue="Python.09_Moving" />
+      <item itemvalue="Python.02_Old_Books" />
+      <item itemvalue="Python.03_Exam_Preparation" />
+      <item itemvalue="Python.04_Vacation" />
+      <item itemvalue="Python.05_Coins" />
+      <item itemvalue="Python.06_Cake" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.09_Moving" />
-        <item itemvalue="Python.08_Sequence 2k+1" />
-        <item itemvalue="Python.07_Water_Dispencer" />
-        <item itemvalue="Python.06_Account_Balance" />
-        <item itemvalue="Python.05_Walking" />
+        <item itemvalue="Python.06_Cake" />
+        <item itemvalue="Python.05_Coins" />
+        <item itemvalue="Python.04_Vacation" />
+        <item itemvalue="Python.03_Exam_Preparation" />
+        <item itemvalue="Python.02_Old_Books" />
       </list>
     </recent_temporary>
   </component>
@@ -347,25 +314,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ae7cf980-185b-4192-9d01-5e9096509a50" name="Default Changelist" comment="" />
-      <created>1541267326010</created>
+      <changelist id="07d7c0e3-140e-4f1c-9a6b-3e2814743766" name="Default Changelist" comment="" />
+      <created>1541661296290</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541267326010</updated>
+      <updated>1541661296290</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14712153" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09381663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26681128" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -392,81 +358,68 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/07_Water_Dispencer.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/02_Old_Books.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/08_Sequence 2k+1.py</url>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/05_Coins.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_Number_In_Range_1_100.py">
+    <entry file="file://$PROJECT_DIR$/01_Greatest_Common_Advisor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" selection-end-line="7" />
+        <state relative-caret-position="24">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_Graduation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="20" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Graduation_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Number_Sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="9" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_Walking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="9" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Account_Balance.py">
+    <entry file="file://$PROJECT_DIR$/02_Old_Books.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="5" column="18" selection-end-line="13" />
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_Water_Dispencer.py">
+    <entry file="file://$PROJECT_DIR$/03_Exam_Preparation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="26" selection-end-line="15" />
+        <state relative-caret-position="552">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_Sequence 2k+1.py">
+    <entry file="file://$PROJECT_DIR$/04_Vacation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="552">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09_Moving.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/math.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="176">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Coins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="22" column="41" lean-forward="true" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Cake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" lean-forward="true" selection-end-line="17" />
         </state>
       </provider>
     </entry>
