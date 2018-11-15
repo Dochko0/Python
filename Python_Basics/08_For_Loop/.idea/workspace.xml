@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07d7c0e3-140e-4f1c-9a6b-3e2814743766" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d4ccbc94-bdf3-49a1-bf2c-c1d575223510" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../07_While_Loop_Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../07_While_Loop_Exercise/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,100 +11,123 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$02_Old_Books.coverage" NAME="02_Old_Books Coverage Results" MODIFIED="1541667592568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$04_Vacation.coverage" NAME="04_Vacation Coverage Results" MODIFIED="1541678484980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$05_Coins.coverage" NAME="05_Coins Coverage Results" MODIFIED="1541684179285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$01_Greatest_Common_Advisor.coverage" NAME="01_Greatest_Common_Advisor Coverage Results" MODIFIED="1541664679899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$06_Cake.coverage" NAME="06_Cake Coverage Results" MODIFIED="1541686099785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/07_While_Loop_Exercise$03_Exam_Preparation.coverage" NAME="03_Exam_Preparation Coverage Results" MODIFIED="1541667600312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/08_For_Loop$04_Max_Number.coverage" NAME="04_Max_Number Coverage Results" MODIFIED="1542169494308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/08_For_Loop$02_Latin_Letters.coverage" NAME="02_Latin_Letters Coverage Results" MODIFIED="1542168245480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/08_For_Loop$09_Clever_Lily.coverage" NAME="09_Clever_Lily Coverage Results" MODIFIED="1542181015562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/08_For_Loop$08_Vowels_Sum.coverage" NAME="08_Vowels_Sum Coverage Results" MODIFIED="1542179424767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/08_For_Loop$01_Numbers_From_1_To_100.coverage" NAME="01_Numbers_From_1_To_100 Coverage Results" MODIFIED="1542167232934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/08_For_Loop$03_Sum_Numbers.coverage" NAME="03_Sum_Numbers Coverage Results" MODIFIED="1542169328673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="857765048">
+    <session id="-328511004">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
-          <entry key="pyi" value="1" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
-          <entry key="PythonStub" value="1" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1712" />
+          <entry key="py" value="894" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1712" />
+          <entry key="Python" value="894" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_Greatest_Common_Advisor.py">
+        <entry file="file://$PROJECT_DIR$/01_Numbers_From_1_To_100.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="24">
-              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+              <caret line="1" column="12" lean-forward="true" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_Old_Books.py">
+        <entry file="file://$PROJECT_DIR$/02_Latin_Letters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="24">
+              <caret line="1" column="17" lean-forward="true" selection-end-line="1" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Exam_Preparation.py">
+        <entry file="file://$PROJECT_DIR$/03_Sum_Numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="168">
+              <caret line="7" column="10" lean-forward="true" selection-end-line="7" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Vacation.py">
+        <entry file="file://$PROJECT_DIR$/04_Max_Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+            <state relative-caret-position="240">
+              <caret line="10" column="10" lean-forward="true" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_Coins.py">
+        <entry file="file://$PROJECT_DIR$/05_Min_Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" column="41" selection-end-line="32" />
+            <state relative-caret-position="216">
+              <caret line="9" lean-forward="true" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_Left_Right_Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="22" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_Odd_Even_Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="33" lean-forward="true" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08_Vowels_Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="16" lean-forward="true" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06_Cake.py">
+        <entry file="file://$PROJECT_DIR$/09_Clever_Lily.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" selection-end-line="17" />
+            <state relative-caret-position="240">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -124,12 +147,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01_Greatest_Common_Advisor.py" />
-        <option value="$PROJECT_DIR$/02_Old_Books.py" />
-        <option value="$PROJECT_DIR$/03_Exam_Preparation.py" />
-        <option value="$PROJECT_DIR$/04_Vacation.py" />
-        <option value="$PROJECT_DIR$/05_Coins.py" />
-        <option value="$PROJECT_DIR$/06_Cake.py" />
+        <option value="$PROJECT_DIR$/01_Numbers_From_1_To_100.py" />
+        <option value="$PROJECT_DIR$/02_Latin_Letters.py" />
+        <option value="$PROJECT_DIR$/03_Sum_Numbers.py" />
+        <option value="$PROJECT_DIR$/04_Max_Number.py" />
+        <option value="$PROJECT_DIR$/05_Min_Number.py" />
+        <option value="$PROJECT_DIR$/06_Left_Right_Sum.py" />
+        <option value="$PROJECT_DIR$/07_Odd_Even_Sum.py" />
+        <option value="$PROJECT_DIR$/08_Vowels_Sum.py" />
+        <option value="$PROJECT_DIR$/09_Clever_Lily.py" />
       </list>
     </option>
   </component>
@@ -140,29 +166,31 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="07_While_Loop_Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="07_While_Loop_Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="08_For_Loop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="08_For_Loop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,9 +210,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.06_Cake">
-    <configuration name="02_Old_Books" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="07_While_Loop_Exercise" />
+  <component name="RunManager" selected="Python.09_Clever_Lily">
+    <configuration name="02_Latin_Letters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="08_For_Loop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -196,7 +224,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Old_Books.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Latin_Letters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,8 +233,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_Exam_Preparation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="07_While_Loop_Exercise" />
+    <configuration name="03_Sum_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="08_For_Loop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -218,7 +246,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Exam_Preparation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Sum_Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,8 +255,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_Vacation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="07_While_Loop_Exercise" />
+    <configuration name="04_Max_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="08_For_Loop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -240,7 +268,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Vacation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Max_Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,8 +277,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_Coins" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="07_While_Loop_Exercise" />
+    <configuration name="08_Vowels_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="08_For_Loop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -262,7 +290,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Coins.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Vowels_Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,8 +299,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_Cake" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="07_While_Loop_Exercise" />
+    <configuration name="09_Clever_Lily" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="08_For_Loop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -284,7 +312,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Cake.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_Clever_Lily.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,19 +322,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.02_Old_Books" />
-      <item itemvalue="Python.03_Exam_Preparation" />
-      <item itemvalue="Python.04_Vacation" />
-      <item itemvalue="Python.05_Coins" />
-      <item itemvalue="Python.06_Cake" />
+      <item itemvalue="Python.02_Latin_Letters" />
+      <item itemvalue="Python.03_Sum_Numbers" />
+      <item itemvalue="Python.04_Max_Number" />
+      <item itemvalue="Python.08_Vowels_Sum" />
+      <item itemvalue="Python.09_Clever_Lily" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06_Cake" />
-        <item itemvalue="Python.05_Coins" />
-        <item itemvalue="Python.04_Vacation" />
-        <item itemvalue="Python.03_Exam_Preparation" />
-        <item itemvalue="Python.02_Old_Books" />
+        <item itemvalue="Python.09_Clever_Lily" />
+        <item itemvalue="Python.08_Vowels_Sum" />
+        <item itemvalue="Python.04_Max_Number" />
+        <item itemvalue="Python.03_Sum_Numbers" />
+        <item itemvalue="Python.02_Latin_Letters" />
       </list>
     </recent_temporary>
   </component>
@@ -315,38 +343,39 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="07d7c0e3-140e-4f1c-9a6b-3e2814743766" name="Default Changelist" comment="" />
-      <created>1541661296290</created>
+      <changelist id="d4ccbc94-bdf3-49a1-bf2c-c1d575223510" name="Default Changelist" comment="" />
+      <created>1542167082694</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541661296290</updated>
+      <updated>1542167082694</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.094630875" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11513859" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26681128" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19848156" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,68 +388,74 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/02_Old_Books.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/05_Coins.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/09_Clever_Lily.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/math.pyi">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Greatest_Common_Advisor.py">
+    <entry file="file://$PROJECT_DIR$/01_Numbers_From_1_To_100.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <caret line="1" column="12" lean-forward="true" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_Old_Books.py">
+    <entry file="file://$PROJECT_DIR$/02_Latin_Letters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="24">
+          <caret line="1" column="17" lean-forward="true" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Exam_Preparation.py">
+    <entry file="file://$PROJECT_DIR$/03_Sum_Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        <state relative-caret-position="168">
+          <caret line="7" column="10" lean-forward="true" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Vacation.py">
+    <entry file="file://$PROJECT_DIR$/04_Max_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        <state relative-caret-position="240">
+          <caret line="10" column="10" lean-forward="true" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_Coins.py">
+    <entry file="file://$PROJECT_DIR$/05_Min_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="41" selection-end-line="32" />
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_Cake.py">
+    <entry file="file://$PROJECT_DIR$/06_Left_Right_Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" selection-end-line="17" />
+        <state relative-caret-position="144">
+          <caret line="6" column="22" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Odd_Even_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="33" lean-forward="true" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_Vowels_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="16" lean-forward="true" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_Clever_Lily.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
