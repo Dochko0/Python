@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d843cecb-330c-4567-b498-6615b5ad587b" name="Default Changelist" comment="" />
+    <list default="true" id="1fb930d7-2c01-435f-b40e-133bec4c4fef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../09_For_Loop_Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09_For_Loop_Exercise/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,42 +11,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/09_For_Loop_Exercise$02_Half_Sum_Element.coverage" NAME="02_Half_Sum_Element Coverage Results" MODIFIED="1542198767998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/09_For_Loop_Exercise$03_Odd_Even_Pos.coverage" NAME="03_Odd_Even_Pos Coverage Results" MODIFIED="1542200380866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/09_For_Loop_Exercise$04_Equal_Pairs.coverage" NAME="04_Equal_Pairs Coverage Results" MODIFIED="1542269408403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/09_For_Loop_Exercise$07_Salary.coverage" NAME="07_Salary Coverage Results" MODIFIED="1542275012758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/09_For_Loop_Exercise$05_Histogram.coverage" NAME="05_Histogram Coverage Results" MODIFIED="1542272824293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/09_For_Loop_Exercise$06_Divide_Without_Remainder.coverage" NAME="06_Divide_Without_Remainder Coverage Results" MODIFIED="1542273946680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/09_For_Loop_Exercise$01_Numbers_Ending_In_7.coverage" NAME="01_Numbers_Ending_In_7 Coverage Results" MODIFIED="1542197015275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Exam$06_Multiply_Table.coverage" NAME="06_Multiply_Table Coverage Results" MODIFIED="1543143398351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Exam$03_Sushi_Time.coverage" NAME="03_Sushi_Time Coverage Results" MODIFIED="1543141252195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Exam$05_Bus.coverage" NAME="05_Bus Coverage Results" MODIFIED="1543142796288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Exam$02_Spaceship.coverage" NAME="02_Spaceship Coverage Results" MODIFIED="1543140089967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Exam$04_Wedding_Decoration.coverage" NAME="04_Wedding_Decoration Coverage Results" MODIFIED="1543142071505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sample_Exam$01_Sea_Trip.coverage" NAME="01_Sea_Trip Coverage Results" MODIFIED="1543139567931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-793244365">
+    <session id="-1643187826">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.58" value="1" />
           <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1667" />
+          <entry key="py" value="1533" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1667" />
+          <entry key="Python" value="1533" />
         </counts>
       </usages-collector>
     </session>
@@ -52,85 +53,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_Numbers_Ending_In_7.py">
+        <entry file="file://$PROJECT_DIR$/01_Sea_Trip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="240">
+              <caret line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_Half_Sum_Element.py">
+        <entry file="file://$PROJECT_DIR$/02_Spaceship.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="17" column="9" selection-end-line="24" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="192">
+              <caret line="8" column="32" selection-end-line="16" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Odd_Even_Pos.py">
+        <entry file="file://$PROJECT_DIR$/03_Sushi_Time.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            <state relative-caret-position="408">
+              <caret line="17" column="34" selection-end-line="55" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Equal_Pairs.py">
+        <entry file="file://$PROJECT_DIR$/04_Wedding_Decoration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="144">
+              <caret line="6" selection-end-line="35" selection-end-column="153" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_Histogram.py">
+        <entry file="file://$PROJECT_DIR$/05_Bus.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="23" selection-end-line="30" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06_Divide_Without_Remainder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="37" selection-end-line="21" />
+            <state relative-caret-position="168">
+              <caret line="7" column="18" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07_Salary.py">
+        <entry file="file://$PROJECT_DIR$/06_Multiply_Table.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="13" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python36_64/Lib/urllib/parse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18528">
-              <caret line="774" selection-start-line="774" selection-end-line="774" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/642446338/math.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3864">
-              <caret line="161" column="7" selection-start-line="160" selection-start-column="16" selection-end-line="161" selection-end-column="7" />
+            <state relative-caret-position="312">
+              <caret line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -150,13 +121,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01_Numbers_Ending_In_7.py" />
-        <option value="$PROJECT_DIR$/02_Half_Sum_Element.py" />
-        <option value="$PROJECT_DIR$/03_Odd_Even_Pos.py" />
-        <option value="$PROJECT_DIR$/04_Equal_Pairs.py" />
-        <option value="$PROJECT_DIR$/05_Histogram.py" />
-        <option value="$PROJECT_DIR$/06_Divide_Without_Remainder.py" />
-        <option value="$PROJECT_DIR$/07_Salary.py" />
+        <option value="$PROJECT_DIR$/01_Sea_Trip.py" />
+        <option value="$PROJECT_DIR$/02_Spaceship.py" />
+        <option value="$PROJECT_DIR$/03_Sushi_Time.py" />
+        <option value="$PROJECT_DIR$/04_Wedding_Decoration.py" />
+        <option value="$PROJECT_DIR$/05_Bus.py" />
+        <option value="$PROJECT_DIR$/06_Multiply_Table.py" />
       </list>
     </option>
   </component>
@@ -167,10 +137,27 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1226" />
-    <option name="y" value="11" />
-    <option name="width" value="1085" />
-    <option name="height" value="882" />
+    <option name="x" value="272" />
+    <option name="y" value="142" />
+    <option name="width" value="1230" />
+    <option name="height" value="645" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -180,18 +167,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="09_For_Loop_Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="09_For_Loop_Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="Sample_Exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sample_Exam" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,9 +198,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.07_Salary">
-    <configuration name="03_Odd_Even_Pos" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="09_For_Loop_Exercise" />
+  <component name="RunManager" selected="Python.06_Multiply_Table">
+    <configuration name="02_Spaceship" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sample_Exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -225,7 +212,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Odd_Even_Pos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Spaceship.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,8 +221,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_Equal_Pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="09_For_Loop_Exercise" />
+    <configuration name="03_Sushi_Time" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sample_Exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -247,7 +234,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Equal_Pairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Sushi_Time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,8 +243,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="09_For_Loop_Exercise" />
+    <configuration name="04_Wedding_Decoration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sample_Exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -269,7 +256,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Histogram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Wedding_Decoration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,8 +265,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_Divide_Without_Remainder" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="09_For_Loop_Exercise" />
+    <configuration name="05_Bus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sample_Exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -291,7 +278,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Divide_Without_Remainder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Bus.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,8 +287,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_Salary" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="09_For_Loop_Exercise" />
+    <configuration name="06_Multiply_Table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sample_Exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -313,7 +300,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Salary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Multiply_Table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,19 +310,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.03_Odd_Even_Pos" />
-      <item itemvalue="Python.04_Equal_Pairs" />
-      <item itemvalue="Python.05_Histogram" />
-      <item itemvalue="Python.06_Divide_Without_Remainder" />
-      <item itemvalue="Python.07_Salary" />
+      <item itemvalue="Python.02_Spaceship" />
+      <item itemvalue="Python.03_Sushi_Time" />
+      <item itemvalue="Python.04_Wedding_Decoration" />
+      <item itemvalue="Python.05_Bus" />
+      <item itemvalue="Python.06_Multiply_Table" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_Salary" />
-        <item itemvalue="Python.06_Divide_Without_Remainder" />
-        <item itemvalue="Python.05_Histogram" />
-        <item itemvalue="Python.04_Equal_Pairs" />
-        <item itemvalue="Python.03_Odd_Even_Pos" />
+        <item itemvalue="Python.06_Multiply_Table" />
+        <item itemvalue="Python.05_Bus" />
+        <item itemvalue="Python.04_Wedding_Decoration" />
+        <item itemvalue="Python.03_Sushi_Time" />
+        <item itemvalue="Python.02_Spaceship" />
       </list>
     </recent_temporary>
   </component>
@@ -344,25 +331,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d843cecb-330c-4567-b498-6615b5ad587b" name="Default Changelist" comment="" />
-      <created>1542196067248</created>
+      <changelist id="1fb930d7-2c01-435f-b40e-133bec4c4fef" name="Default Changelist" comment="" />
+      <created>1543138837235</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542196067248</updated>
+      <updated>1543138837235</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1226" y="11" width="1085" height="882" extended-state="0" />
+    <frame x="218" y="114" width="984" height="516" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21463415" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21103896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34118968" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39842874" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22972973" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -389,82 +376,63 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/02_Half_Sum_Element.py</url>
-          <line>9</line>
+          <url>file://$PROJECT_DIR$/03_Sushi_Time.py</url>
+          <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04_Equal_Pairs.py</url>
-          <line>10</line>
+          <url>file://$PROJECT_DIR$/03_Sushi_Time.py</url>
+          <line>6</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05_Bus.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_Numbers_Ending_In_7.py">
+    <entry file="file://$PROJECT_DIR$/01_Sea_Trip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="240">
+          <caret line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_Half_Sum_Element.py">
+    <entry file="file://$PROJECT_DIR$/02_Spaceship.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="17" column="9" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="192">
+          <caret line="8" column="32" selection-end-line="16" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Odd_Even_Pos.py">
+    <entry file="file://$PROJECT_DIR$/03_Sushi_Time.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        <state relative-caret-position="408">
+          <caret line="17" column="34" selection-end-line="55" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Equal_Pairs.py">
+    <entry file="file://$PROJECT_DIR$/04_Wedding_Decoration.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="144">
+          <caret line="6" selection-end-line="35" selection-end-column="153" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_Histogram.py">
+    <entry file="file://$PROJECT_DIR$/05_Bus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="23" selection-end-line="30" selection-end-column="31" />
+        <state relative-caret-position="168">
+          <caret line="7" column="18" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_Divide_Without_Remainder.py">
+    <entry file="file://$PROJECT_DIR$/06_Multiply_Table.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="37" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python36_64/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18528">
-          <caret line="774" selection-start-line="774" selection-end-line="774" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/642446338/math.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3864">
-          <caret line="161" column="7" selection-start-line="160" selection-start-column="16" selection-end-line="161" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_Salary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="13" selection-end-line="20" />
+        <state relative-caret-position="312">
+          <caret line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
