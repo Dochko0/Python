@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d7c11d5-1808-4381-8407-c1ae73470517" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/j_shellbound.py" beforeDir="false" afterPath="$PROJECT_DIR$/j_shellbound.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../04_Lambda_Functions_And_Exercise/~$. List-and-Dictionaries-Exercise-Dictionaries.docx" beforeDir="false" />
-    </list>
+    <list default="true" id="9d7c11d5-1808-4381-8407-c1ae73470517" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/j_shellbound.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="576">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -173,7 +170,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../06_Object_And_Classes/task_object_and_classes" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -323,16 +320,15 @@
       <workItem from="1547376452954" duration="16699000" />
       <workItem from="1547591677436" duration="8193000" />
       <workItem from="1547889814125" duration="602000" />
-      <workItem from="1549644456867" duration="1885000" />
+      <workItem from="1549644456867" duration="3055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27379000" />
+    <option name="totallyTimeSpent" value="28549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -474,8 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/j_shellbound.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="576">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
